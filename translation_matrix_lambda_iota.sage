@@ -1,4 +1,4 @@
-R = SR   # symbolic ring (complex numbers OK)
+R = SR 
 
 
 g = exp(matrix([[0,pi*I/4],[pi*I/4,0]]))
