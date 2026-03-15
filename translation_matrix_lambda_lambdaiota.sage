@@ -1,4 +1,4 @@
-R = SR   # symbolic ring (complex numbers OK)
+R = SR   
 
 
 g = exp(matrix([[pi*I/4,0],[0,-pi*I/4]]))
@@ -60,7 +60,7 @@ apply_pair2(A3, idx["c3"], idx["d3"])
 
 
 delta0 = A1*A2*A3
-delta = sqrt(2)*(1 + I)/2*delta
+delta = sqrt(2)*(1 + I)/2*delta0
 
 
 L = matrix(R,14,14)
