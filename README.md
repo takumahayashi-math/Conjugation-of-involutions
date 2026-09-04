@@ -1,4 +1,4 @@
-Lemma 4.10.1 appears in Yokota's book "Exceptiona Lie groups", but the presentation is analytic in appearance and omits the computational details. Here we give an explicit algebraic derivation. We also discuss its analog for lambda and iota*lambda. 
+The presentation of Lemma 4.10.1 in Yokota's book "Exceptiona Lie groups" is analytic and omits the computational details. Here we give an explicit algebraic derivation. We also discuss its analog for other matrices.
 
 In the sage files, the sources are included. We compute the actions as matrices with the standard basis
 (xi_1,xi_2,xi_3,c_1,c_2,c_3,eta_1,eta_2,eta_3,d_1,d_2,d_3,xi,eta) of the Freudenthal vector space V(A).
