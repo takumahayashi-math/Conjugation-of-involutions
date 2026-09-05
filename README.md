@@ -5,4 +5,4 @@ In the sage file, the source is included. We compute the actions as matrices wit
 To be precise, we think of c_i, d_i in O as blocks.
 
 Following Yokota's book, we construct the translation matrix delta. We rename it beta to suit the notations to my paper "Some symmetric subgroups of strongly inner exceptional algebraic groups." We check the conjugacy result and compute the attached cocycle.
-The results are appended as the result file.
+The results are appended as the result file. They are use in the paper "Some symmetric subgroups of strongly inner exceptional algebraic groups."
